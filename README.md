@@ -1,4 +1,4 @@
-# arcgis-python-tools
+# arcgis-python-examples
 A set of scripts and notebooks for interacting with the ArcGIS platform.
 
 ## Setup
